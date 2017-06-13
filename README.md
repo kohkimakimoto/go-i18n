@@ -1,5 +1,7 @@
 # go-i18n
 
+[![Build Status](https://travis-ci.org/kohkimakimoto/go-i18n.svg?branch=master)](https://travis-ci.org/kohkimakimoto/go-i18n)
+
 Minimum i18n package for Go.
 
 ## Usage
